@@ -1,5 +1,4 @@
 #include "Shader.hpp"
-#include <OpenGL/gl.h>
 #include <fstream>
 #include <iostream>
 #include <optional>
